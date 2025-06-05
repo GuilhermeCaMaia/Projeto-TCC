@@ -20,6 +20,7 @@ As imagens geradas contaram com 3 modelos treinados pelo autor:
 * Modelo 3 Guilherme Misto.
 
 As imagens geradas podem ser encontradas neste repositorio.
+
 Como parametro de analise: 
 * Semelhança com o autor;
 * Qualidade da imagem;
