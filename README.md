@@ -21,7 +21,7 @@ As imagens geradas contaram com 3 modelos treinados pelo autor:
 
 As imagens geradas podem ser encontradas neste repositorio.
 
-Como parametro de analise: 
+Para analise foram usados os seguintes parametros: 
 * Semelhança com o autor;
 * Qualidade da imagem;
 * Fidelidade ao prompt.
