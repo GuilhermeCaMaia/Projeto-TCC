@@ -2,6 +2,7 @@
 Projeto de criação de um algoritimo de geração de imagem destinado ao TCC de Guilherme Cardoso de Azevedo Maia, da Faculdade Professor Miguel Ângelo da Silva Santos (FeMASS). 2025
 
 Detalhes do projeto
+
 O projeto conta com 3 conjuntos de imagens para treinamento:
 * Conjunto 1 Guilherme Sem Óculos conta com 9 imagens;
 * Conjunto 2 Guilherme Com Óculos conta com 9 imagens;
