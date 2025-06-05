@@ -11,3 +11,17 @@ O projeto conta com 3 conjuntos de imagens para treinamento:
 Todas as imagens podem ser encontradas neste repositorio.
 
 Para realizar o Treinamento foi utilizado a ferramenta Fast-Dreambooth disponivel no Google Colab.
+
+Para gerar as imagens foi utilizado como referencia o guia do Stable diffusion: https://github.com/CompVis/stable-diffusion?tab=readme-ov-file#weights
+
+As imagens geradas contaram com 3 modelos treinados pelo autor:
+* Modelo 1 Guilherme Sem Óculos;
+* Modelo 2 Guilherme Com Óculos;
+* Modelo 3 Guilherme Misto.
+
+As imagens geradas podem ser encontradas neste repositorio.
+Como parametro de analise: 
+* Semelhança com o autor;
+* Qualidade da imagem;
+* Fidelidade ao prompt.
+
