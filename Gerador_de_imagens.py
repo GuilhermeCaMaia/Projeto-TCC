@@ -29,7 +29,4 @@ image = pipe(prompt, guidance_scale=guidance_scale,
 
 image.save("HomemAndandoNaFloresta2.png")
 
-#cd C:\Users\Guilherme\Documents\Projetos\Teste
-#python Teste_de_imagen.py
-#python convert_original_stable_diffusion_to_diffusers.py --checkpoint_path "./guilhermeModelo.ckpt" --original_config_file "v1-inference.yaml" --dump_path "./meuModeloDiffusers"
 
